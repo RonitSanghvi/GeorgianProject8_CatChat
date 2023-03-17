@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cat Chat Application</string>
+    <string name="hello_inbox_fragment">Inbox</string>
+    <string name="hello_help_fragment">Help</string>
+</resources>
